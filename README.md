@@ -12,6 +12,8 @@ A React app to fetch and show data from Ensembl Database. Included to have more 
 
 React app is deployed to netlify, you can check it out:
 
+https://species-assemblyexplorer.netlify.app/
+
 
 ## Feedback
 
